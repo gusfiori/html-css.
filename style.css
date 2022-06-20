@@ -1,0 +1,129 @@
+.flexboxcontainer {
+    display: flex;
+    position: relative;
+    top: 10px;
+    width:auto;
+    height: 260px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: rgb(255, 255, 255);
+    border-width: 3px;
+    background-image: url(imagens/gif80.gif);
+    font-family: 'fonte';
+    font-size: 40px;
+    font-weight: normal;
+    color: rgb(255, 255, 255);
+} 
+
+.body{
+    background-image: url(imagens/foto.jpg);
+}
+
+.nome{
+    position: absolute;
+    top: 0px;
+    left: 50px;
+    height: max-content;
+    
+}
+
+.trabalho1{
+    display: flex;
+    position: relative;
+    top: 10px;
+    width:auto;
+    height: 1000px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: rgb(255, 255, 255);
+    border-width: 3px;
+    background-image: url(imagens/gif80.gif);
+    font-family: 'fonte';
+    font-size: 40px;
+    font-weight: normal;
+    color: rgb(255, 255, 255);
+}
+
+.espaco{
+    width: auto;
+    height: 10px;
+}
+
+.jogo{
+    position: absolute;
+    left: 50px;
+    width: auto;
+    height: max-content;
+    
+}
+
+.fotodetetive{
+    position: absolute;
+    top: 10px;
+    left: 1010px;
+    border-width: 3px;
+    border: 3px;
+    border-color: white;
+    
+}
+
+.img{
+    border: 100px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: rgb(255, 255, 255);
+    border-width: 3px;
+}
+
+
+
+.trabalho2{
+    display: flex;
+    position: relative;
+    top: 10px;
+    width:auto;
+    height: 1000px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: rgb(255, 255, 255);
+    border-width: 3px;
+    background-image: url(imagens/gif80.gif);
+    font-family: 'fonte';
+    font-size: 40px;
+    font-weight: normal;
+    color: rgb(255, 255, 255);
+}
+
+.trabalho3{
+    display: flex;
+    position: relative;
+    top: 10px;
+    width:auto;
+    height: 1000px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: rgb(255, 255, 255);
+    border-width: 3px;
+    background-image: url(imagens/gif80.gif);
+    font-family: 'fonte';
+    font-size: 40px;
+    font-weight: normal;
+    color: rgb(255, 255, 255);
+}
+
+.trabalho4{
+    display: flex;
+    position: relative;
+    top: 10px;
+    width:auto;
+    height: 1000px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: rgb(255, 255, 255);
+    border-width: 3px;
+    background-image: url(imagens/gif80.gif);
+    font-family: 'fonte';
+    font-size: 40px;
+    font-weight: normal;
+    color: rgb(255, 255, 255);
+}
